@@ -1,0 +1,36 @@
+.scope-heading{
+   color: #ffffff;
+   font-size: 24px;
+   font-weight: 500;
+
+}
+.text{
+    color: #ffffff;
+    font-size: 18px;
+ }
+
+ .radios-container{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    width: 100px;
+
+
+
+ }
+
+ .containers{
+    width: 90%;
+ }
+ .input-container{
+    display: flex;
+   flex-direction: column;
+    margin-right: 6px;
+    padding-right: 2px;
+    padding-top: 0px;
+    height: 18px;
+    background-color:#375a7f;
+    width: 18px;
+    border-radius: 16px;
+
+}

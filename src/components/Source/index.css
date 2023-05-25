@@ -1,0 +1,33 @@
+.source-heading{
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 500;
+ 
+
+}
+.text{
+    color: #ffffff;
+    font-size: 18px;
+ }
+
+ .radio-container{
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-start;
+    align-items: center;
+height: 24px;
+width: 24px;
+
+ }
+ .input-container{
+    display: flex;
+    flex-direction: column;
+    margin-right: 6px;
+    padding-right: 2px;
+    padding-top: 0px;
+    height: 18px;
+    background-color:#375a7f;
+    width: 18px;
+    border-radius: 16px;
+
+}

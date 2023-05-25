@@ -1,0 +1,13 @@
+
+
+.lesson-container{
+    margin-bottom: 0px;
+    background-color: green;
+    height: 10hv;
+}
+
+@media screen and (max-height:768px){
+    .heading{
+      font-size: 14px;
+    }
+  }

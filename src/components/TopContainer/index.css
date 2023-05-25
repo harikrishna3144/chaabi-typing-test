@@ -1,0 +1,7 @@
+.main-container{
+    display: flex;
+    flex-direction: row;
+   width: 90vw;
+   flex-wrap: wrap;
+    justify-content: space-between;
+}

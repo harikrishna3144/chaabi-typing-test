@@ -1,0 +1,68 @@
+
+
+.app-container{
+  background-color: #303030;
+  display: flex;
+  justify-content:space-around;
+
+  flex-wrap: wrap;
+  min-height: 20vh;
+  margin-bottom: 0px;
+}
+
+@media screen and (max-height:768px){
+  .app-container{
+    height: 220vh;
+    padding: 20px;
+  }
+}
+
+@media screen and (height:576px){
+  .app-container{
+    min-height: 300vh;
+  }
+}
+.container{
+ min-height: 10vh;
+  background-color: #303030;
+  display: flex;
+  justify-content:space-around;
+  flex-wrap: wrap;
+ 
+
+}
+.text-container{
+  margin-top: 60px;
+}
+.lesson-container{
+  height: 10vh;
+  width: 100%;
+  background-color:transparent;
+  display: flex;
+  justify-content: center;
+}
+.lesson{
+  color: #ffffff;
+}
+
+.footer-container{
+  background-color:#21386a;
+  height: 45px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: #16c553;
+  margin-top: 30px;
+}
+.word-text-container{
+  background-color: #33678d;
+  height: 45px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 30px;
+
+}
+
